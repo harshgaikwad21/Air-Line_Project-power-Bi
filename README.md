@@ -3,7 +3,7 @@
 
 ## Tool Uesd :
 
-![powerbi_logo]()
+![powerbi_logo](https://up.yimg.com/ib/th/id/OIP.qAwpaT7q385MhQTQi-9IagHaHa?pid=Api&rs=1&c=1&qlt=95&w=118&h=118)
 
 
 ## 📊 Project Summary
