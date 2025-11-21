@@ -34,3 +34,13 @@ The included DataModelSchema file suggests:
   - Standardized formatting
 
 This model allows the dashboard to function seamlessly once the user connects their own data source.
+
+**3. Custom Themes & Branding**
+
+The presence of:
+
+  - Custom theme JSON files
+
+  - Multiple logo image files
+
+shows that the dashboard uses a polished visual theme for a consistent and professional UI experience.
