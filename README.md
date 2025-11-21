@@ -103,3 +103,18 @@ This makes it perfect for recurring analysis or enterprise reporting.
 - Custom JSON themes
 
 - Data modeling best practices
+
+ ## 🤝 Contributing
+
+Contributions are welcome!
+If you’d like to enhance visuals, optimize DAX, or add new features:
+
+- Fork the repo
+
+- Create your feature branch (git checkout -b feature/new-feature)
+
+- Commit changes (git commit -m 'Add new feature')
+
+- Push to branch (git push origin feature/new-feature)
+
+- Open a Pull Request
