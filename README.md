@@ -1,5 +1,5 @@
 # Air-Line_Project-power-Bi 
-![Airline_project](https://images.pexels.com/photos/1089306/pexels-photo-1089306.jpeg)
+![Airline_project](https://images.pexels.com/photos/34785934/pexels-photo-34785934.jpeg)
 
 ## 📊 Project Summary
 
