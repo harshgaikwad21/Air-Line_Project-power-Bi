@@ -20,3 +20,17 @@ The template includes predefined:
   - KPI cards and slicers
 
 Multiple visual.json and page.json files indicate a professionally organized dashboard with multiple insights panels.
+
+**2. Optimized Data Model**
+
+The included DataModelSchema file suggests:
+
+  - Clean relationships
+
+  - Predefined measures (DAX)
+
+  - Calculated columns
+
+  - Standardized formatting
+
+This model allows the dashboard to function seamlessly once the user connects their own data source.
