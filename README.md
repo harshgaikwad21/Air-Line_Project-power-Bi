@@ -84,7 +84,7 @@ This makes it perfect for recurring analysis or enterprise reporting.
 
 <img width="1034" height="593" alt="dash b1" src="https://github.com/user-attachments/assets/3857f01f-999b-4968-badb-563731474a1c" />
 
-**📌 Short Insights**
+## 📌 Short Insights
 
 - The dashboard shows **15K total flights**, with the majority being **On-Time**. Delayed and Cancelled flights form a much smaller portion.
 
@@ -98,7 +98,7 @@ This makes it perfect for recurring analysis or enterprise reporting.
 
   <img width="1045" height="588" alt="dash b2" src="https://github.com/user-attachments/assets/02435511-bf56-4dbe-bf1c-1c3685b6b46c" />
 
-## 📌 Short Insights
+ ## 📌 Short Insights
 
 - Across all major origins (BLR, BOM, DEL, DOH, DXB, FRA, JFK, LHR), **On-Time flights dominate**, consistently showing the highest count compared to delayed or cancelled flights.
 
@@ -111,6 +111,8 @@ This makes it perfect for recurring analysis or enterprise reporting.
 - The detailed table for Departure and Arrival times supports analysis of schedule adherence and operational patterns for selected origins.
 
 <img width="1052" height="582" alt="dash b3" src="https://github.com/user-attachments/assets/ab954f4d-3752-4bac-9399-f2d937630d23" />
+
+## 📌 Short Insights
 
 - **Average delay minutes across all aircraft types are very similar**, ranging between **88–90 minutes**, showing consistent delay patterns regardless of aircraft model (A320, B787, A380, B737, B777).
 
